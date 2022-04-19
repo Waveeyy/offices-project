@@ -1,0 +1,40 @@
+.padding {
+  padding-left: 20rem;
+}
+
+.resize {
+  height: 5rem;
+  width: 7rem;
+}
+
+a {
+  color: grey;
+  font-weight: bold;
+}
+
+.carousel-1 {
+  height: 70vh;
+}
+
+.footer-para {
+  display: flex;
+  margin-bottom: 0;
+  justify-content: center;
+  color: white;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+  color: green;
+}
+
+.footer-heading {
+  display: flex;
+  justify-content: center;
+  color: rgb(133, 91, 13);
+}
+
+footer {
+  background-color: rgb(8, 8, 107);
+}
